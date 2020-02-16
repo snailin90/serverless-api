@@ -119,4 +119,4 @@ functions:
 
 resources:
 # API Gateway Errors
-  - ${fil(resources/api-gateway-errors.yml)}
+  - ${file(resources/api-gateway-errors.yml)}
